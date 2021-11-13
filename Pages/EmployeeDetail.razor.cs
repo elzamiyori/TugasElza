@@ -20,7 +20,7 @@ namespace BlazorFrontEndSample.Pages
         public string ButtonText {get; set;} =  "Hide Footer";
         public string CssClass {get; set;} = null;
         protected void Button_Click(){
-            if(ButtonText == "HideFooter"){
+            if(ButtonText == "Hide Footer"){
                 CssClass = "HideFooter";
                 ButtonText = "Show Footer";
                 

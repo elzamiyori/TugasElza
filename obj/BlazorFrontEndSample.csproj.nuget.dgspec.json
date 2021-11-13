@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Elza\\2021\\blazor\\BlazorFrontEndSample\\BlazorFrontEndSample.csproj": {}
+    "C:\\Elza\\TugasElza\\BlazorFrontEndSample.csproj": {}
   },
   "projects": {
-    "c:\\Elza\\2021\\blazor\\BlazorFrontEndSample\\BlazorFrontEndSample.csproj": {
+    "C:\\Elza\\TugasElza\\BlazorFrontEndSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Elza\\2021\\blazor\\BlazorFrontEndSample\\BlazorFrontEndSample.csproj",
+        "projectUniqueName": "C:\\Elza\\TugasElza\\BlazorFrontEndSample.csproj",
         "projectName": "BlazorFrontEndSample",
-        "projectPath": "c:\\Elza\\2021\\blazor\\BlazorFrontEndSample\\BlazorFrontEndSample.csproj",
+        "projectPath": "C:\\Elza\\TugasElza\\BlazorFrontEndSample.csproj",
         "packagesPath": "C:\\Users\\Asus A407\\.nuget\\packages\\",
-        "outputPath": "c:\\Elza\\2021\\blazor\\BlazorFrontEndSample\\obj\\",
+        "outputPath": "C:\\Elza\\TugasElza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus A407\\AppData\\Roaming\\NuGet\\NuGet.Config"

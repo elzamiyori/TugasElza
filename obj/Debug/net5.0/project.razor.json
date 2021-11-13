@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Elza\\2021\\blazor\\BlazorFrontEndSample\\BlazorFrontEndSample.csproj",
+  "FilePath": "c:\\Elza\\TugasElza\\BlazorFrontEndSample.csproj",
   "Configuration": {
     "ConfigurationName": "Default",
     "LanguageVersion": "5.0",
@@ -180,39 +180,6 @@
         }
       },
       {
-        "HashCode": 266890567,
-        "Kind": "Components.Component",
-        "Name": "BlazorFrontEndSample.Pages.Counter",
-        "AssemblyName": "BlazorFrontEndSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEndSample.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 643203941,
-        "Kind": "Components.Component",
-        "Name": "BlazorFrontEndSample.Pages.Counter",
-        "AssemblyName": "BlazorFrontEndSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorFrontEndSample.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEndSample.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -2021147247,
         "Kind": "Components.Component",
         "Name": "BlazorFrontEndSample.Pages.Index",
@@ -279,35 +246,35 @@
         }
       },
       {
-        "HashCode": 1657568565,
+        "HashCode": 266890567,
         "Kind": "Components.Component",
-        "Name": "BlazorFrontEndSample.App",
+        "Name": "BlazorFrontEndSample.Pages.Counter",
         "AssemblyName": "BlazorFrontEndSample",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEndSample.App"
+          "Common.TypeName": "BlazorFrontEndSample.Pages.Counter"
         }
       },
       {
-        "HashCode": -198621227,
+        "HashCode": 643203941,
         "Kind": "Components.Component",
-        "Name": "BlazorFrontEndSample.App",
+        "Name": "BlazorFrontEndSample.Pages.Counter",
         "AssemblyName": "BlazorFrontEndSample",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorFrontEndSample.App"
+            "TagName": "BlazorFrontEndSample.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEndSample.App",
+          "Common.TypeName": "BlazorFrontEndSample.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -408,39 +375,6 @@
         }
       },
       {
-        "HashCode": 113330645,
-        "Kind": "Components.Component",
-        "Name": "BlazorFrontEndSample.Shared.NavMenu",
-        "AssemblyName": "BlazorFrontEndSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEndSample.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 644243984,
-        "Kind": "Components.Component",
-        "Name": "BlazorFrontEndSample.Shared.NavMenu",
-        "AssemblyName": "BlazorFrontEndSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorFrontEndSample.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEndSample.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 241888155,
         "Kind": "Components.Component",
         "Name": "BlazorFrontEndSample.Shared.SurveyPrompt",
@@ -490,6 +424,72 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorFrontEndSample.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 113330645,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEndSample.Shared.NavMenu",
+        "AssemblyName": "BlazorFrontEndSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEndSample.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 644243984,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEndSample.Shared.NavMenu",
+        "AssemblyName": "BlazorFrontEndSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFrontEndSample.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEndSample.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1657568565,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEndSample.App",
+        "AssemblyName": "BlazorFrontEndSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEndSample.App"
+        }
+      },
+      {
+        "HashCode": -198621227,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEndSample.App",
+        "AssemblyName": "BlazorFrontEndSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFrontEndSample.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEndSample.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13181,63 +13181,63 @@
   "RootNamespace": "BlazorFrontEndSample",
   "Documents": [
     {
-      "FilePath": "c:\\Elza\\2021\\blazor\\BlazorFrontEndSample\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Elza\\2021\\blazor\\BlazorFrontEndSample\\Pages\\EmployeeDetail.razor",
-      "TargetPath": "Pages\\EmployeeDetail.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Elza\\2021\\blazor\\BlazorFrontEndSample\\Pages\\DetailDepartment.razor",
-      "TargetPath": "Pages\\DetailDepartment.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Elza\\2021\\blazor\\BlazorFrontEndSample\\Shared\\MainLayout.razor",
+      "FilePath": "c:\\Elza\\TugasElza\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Elza\\2021\\blazor\\BlazorFrontEndSample\\_Imports.razor",
+      "FilePath": "c:\\Elza\\TugasElza\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
     },
     {
-      "FilePath": "c:\\Elza\\2021\\blazor\\BlazorFrontEndSample\\Pages\\EmployeePage.razor",
-      "TargetPath": "Pages\\EmployeePage.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Elza\\2021\\blazor\\BlazorFrontEndSample\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Elza\\2021\\blazor\\BlazorFrontEndSample\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Elza\\2021\\blazor\\BlazorFrontEndSample\\App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Elza\\2021\\blazor\\BlazorFrontEndSample\\Pages\\Index.razor",
+      "FilePath": "c:\\Elza\\TugasElza\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Elza\\2021\\blazor\\BlazorFrontEndSample\\Shared\\NavMenu.razor",
+      "FilePath": "c:\\Elza\\TugasElza\\Pages\\DepartmentPage.razor",
+      "TargetPath": "Pages\\DepartmentPage.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Elza\\TugasElza\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Elza\\TugasElza\\Pages\\EmployeeDetail.razor",
+      "TargetPath": "Pages\\EmployeeDetail.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Elza\\TugasElza\\Pages\\DetailDepartment.razor",
+      "TargetPath": "Pages\\DetailDepartment.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Elza\\TugasElza\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Elza\\TugasElza\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Elza\\2021\\blazor\\BlazorFrontEndSample\\Pages\\DepartmentPage.razor",
-      "TargetPath": "Pages\\DepartmentPage.razor",
+      "FilePath": "c:\\Elza\\TugasElza\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Elza\\TugasElza\\Pages\\EmployeePage.razor",
+      "TargetPath": "Pages\\EmployeePage.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Elza\\TugasElza\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
       "FileKind": "component"
     }
   ],
